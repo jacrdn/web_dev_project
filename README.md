@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Includes code from and based on a google maps API integration example:
+https://www.digitalocean.com/community/tutorials/how-to-integrate-the-google-maps-api-into-react-applications
+
 ## Available Scripts
 
 In the project directory, you can run:
